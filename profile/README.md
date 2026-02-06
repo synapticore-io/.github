@@ -59,15 +59,6 @@
 | [lindel](https://github.com/synapticore-io/lindel) | Linearization/Delinearization — Z-Order, Hilbert and Morton curves |
 | [duckdb-spatial-3d](https://github.com/synapticore-io/duckdb-spatial-3d) | Geospatial functions, GEOMETRY type, and columnar spatial data |
 
-## Ecosystem
-
-Part of the **synapticore** ecosystem: `Lab forscht → Dev baut → Studio produziert`
-
-| | |
-|---|---|
-| [agentic-dev.io](https://agentic-dev.io) | Agentic Systems & AI Development |
-| [synapticore.studio](https://synapticore.studio) | Agentic DCC Pipelines & Interactive AI Experiences |
-
 ---
 
 <sub>Maintained by [@bjoernbethge](https://github.com/bjoernbethge)</sub>
