@@ -62,4 +62,4 @@
 
 ---
 
-<sub>Maintained by [@bjoernbethge](https://github.com/bjoernbethge)</sub>
+<sub>Maintained by [@bjoernbethge](https://github.com/bjoernbethge) · [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4500--0274-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4500-0274)</sub>
