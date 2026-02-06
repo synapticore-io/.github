@@ -39,6 +39,7 @@
 | [astro-duck](https://github.com/synapticore-io/astro-duck) | DuckDB extension for astronomical calculations — coordinates, photometry, cosmology |
 | [earth2studio](https://github.com/synapticore-io/earth2studio) | Deep-learning framework for AI weather and climate workflows |
 | [illustris](https://github.com/synapticore-io/illustris) | IllustrisTNG public data release — cosmological simulation tools |
+| [marimo-flow](https://github.com/synapticore-io/marimo-flow) | Interactive ML notebooks with reactive updates, AI assistance, and MLflow tracking |
 | [paper-search-cli](https://github.com/synapticore-io/paper-search-cli) | CLI for searching and downloading papers from arXiv, PubMed, bioRxiv, and more |
 
 ### Machine Learning & PyTorch
